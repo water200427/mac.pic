@@ -1,2 +1,0 @@
-# mac.pic
-# mac.pic
